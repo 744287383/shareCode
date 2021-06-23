@@ -1,0 +1,15 @@
+{
+  "msg": "成功",
+  "code": 200,
+  "data": [{"activityIdEncrypted": "KfvYurqSW9s=\n", "assistStartRecordId": 1206104, "assistedPinEncrypted": "TB4BM4SNPHJnXOoxHsAwV0bCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624464837535 },
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1170294,"assistedPinEncrypted": "ANsSvf1pijHj2r_tDBZW2kbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624464838617},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1217419,"assistedPinEncrypted": "3jQ0bPkUNhBNnFSVh1bomkbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624464888259},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1225211,"assistedPinEncrypted": "BTlnHQGrcfeOlO-4z1oMCg==\n","channel": "FISSION_BEAN","time": 1624464937640},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1187888,"assistedPinEncrypted": "oNShT1IzS87P8E06VbYfIg==\n","channel": "FISSION_BEAN","time": 1624464987009},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1181651,"assistedPinEncrypted": "x5E01r7MmYPQ5b2VGwpHtkbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624465036208},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1189865,"assistedPinEncrypted": "8_Y2LMf5C7vizIsGJQmQig==\n","channel": "FISSION_BEAN","time": 1624465086407},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1200434,"assistedPinEncrypted": "g_FBo4_dnOrDcfZU1vFIbEbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624465135574},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1170770,"assistedPinEncrypted": "UkPgMe7Nm5rW0-5GHrpgOEbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624465185222},
+{"activityIdEncrypted": "KfvYurqSW9s=\n","assistStartRecordId": 1205134,"assistedPinEncrypted": "5-aALnTzDUFApuAV_bRijUbCOLQDCrQB\n","channel": "FISSION_BEAN","time": 1624465234272}
+]
+}
